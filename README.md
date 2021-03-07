@@ -3,7 +3,7 @@
 
 # Project Euler
 
-#### This is an exercise to practice with Jest in order to complete a problem on the website Project Euler
+#### This is an exercise to practice with Jest in order to complete a problem on the website Project Euler. The link to the problem can be found [here](https://projecteuler.net/problem=1).
 
 #### By Collin Chapman, Jesse Callahan, Sofia Acosta
 
