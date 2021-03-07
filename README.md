@@ -60,17 +60,13 @@ This specific problem is to solve _Problem 1_ ("Multiples of 3 and 5"). To list 
 |:---: |:---:|:---:|
 | The program should return the numbers that are multiples of 3 and 5 from the number 10 | When it receives 10 | It should return an array of 3, 5, 6, 9|
 
-**Test 2**
-
 | Behavior | Input | Output |
 |:---: |:---:|:---:|
 | The program should return the sum of the number that are multiples of 3 and from the number 10 | When it receives 10 | It should return 23|
 
-**Test 3**
-
 | Behavior | Input | Output |
 |:---: |:---:|:---:|
-| The program should return the sum of the number that are multiples of 3 and from the number 1000 | It should return 233168|
+| The program should return the sum of the number that are multiples of 3 and from the number 1000 | When it receives 1000 | It should return 233168|
 
 ## Known Bugs
 
