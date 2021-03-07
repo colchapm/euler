@@ -1,4 +1,4 @@
-import TestEuler from '../src/euler.js';
+import TestEuler from '../src/js/euler.js';
 
 describe ('Test', () => {
 
@@ -15,7 +15,7 @@ describe ('Test', () => {
     expect(newTest.sumNumbers(10)).toEqual(23);
   })
 
-  test('should return the sum of the number that are multiples of 3 and from the number 10', () => {
+  test('should return the sum of the number that are multiples of 3 and from the number 1000', () => {
     expect(newTest.sumNumbers(1000)).toEqual(233168);
   })
 });
