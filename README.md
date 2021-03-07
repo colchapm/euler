@@ -1,15 +1,15 @@
 ### _This project is not in a complete or portfolio ready state, and should not be considered representiational of professional work._
 
 
-# Application Name
+# Project Euler
 
-#### Brief Description of Application
+#### This is an exercise to practice with Jest in order to complete a problem on the website Project Euler
 
-#### By Collin Chapman
+#### By Collin Chapman, Jesse Callahan, Sofia Acosta
 
 ## Preview
 
-  * Follow this [path](https://github.com/) to view the project on GitHub Pages
+  * There is no GitHub pages for this project
 
 ## Technologies Used
 
@@ -37,7 +37,7 @@
 
 ## Description
 
-This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.
+This specific problem is to solve _Problem 1_ ("Multiples of 3 and 5"). To list all the natural numbers below 1000 that are multiples of 3 or 5. 
 
 ## Setup/Installation Requirements
 
@@ -54,9 +54,23 @@ This is a detailed description of your application. Give as much detail as neede
 
 ## Specifications
 
+**Test 1**
+
 | Behavior | Input | Output |
 |:---: |:---:|:---:|
-| The program should... | When it receives... | It should return...|
+| The program should return the numbers that are multiples of 3 and 5 from the number 10 | When it receives 10 | It should return an array of 3, 5, 6, 9|
+
+**Test 2**
+
+| Behavior | Input | Output |
+|:---: |:---:|:---:|
+| The program should return the sum of the number that are multiples of 3 and from the number 10 | When it receives 10 | It should return 23|
+
+**Test 3**
+
+| Behavior | Input | Output |
+|:---: |:---:|:---:|
+| The program should return the sum of the number that are multiples of 3 and from the number 1000 | It should return 233168|
 
 ## Known Bugs
 
