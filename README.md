@@ -54,8 +54,6 @@ This specific problem is to solve _Problem 1_ ("Multiples of 3 and 5"). To list 
 
 ## Specifications
 
-**Test 1**
-
 | Behavior | Input | Output |
 |:---: |:---:|:---:|
 | The program should return the numbers that are multiples of 3 and 5 from the number 10 | When it receives 10 | It should return an array of 3, 5, 6, 9|
